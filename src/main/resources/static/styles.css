@@ -1,11 +1,10 @@
 html,body {
     height:100%;
-    background:white;
+    background:#444;
 }
 
 header {
     display:block;
-    background:#d7e0e9;
     padding:10px 0px;
 }
 
@@ -15,7 +14,7 @@ section {
     overflow: auto;
     padding-bottom: 60px;
     padding-top:30px;
-    color: black;
+    color: white;
 }
 
 footer {
@@ -24,6 +23,6 @@ footer {
     height: 40px;
     padding:5px 0px;
     clear: both;
-    background: #d7e0e9;
-    text-align: center; color: black;
+    background: #444;
+    text-align: center;
 }
